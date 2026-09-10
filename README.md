@@ -208,9 +208,9 @@ I enjoy building practical applications, exploring new technologies, and turning
 
 ## 📬 Connect With Me
 
-* **GitHub:** `YOUR_GITHUB_LINK`
-* **LinkedIn:** `YOUR_LINKEDIN_LINK`
-* **Email:** `YOUR_EMAIL`
+* **GitHub:** `https://github.com/RyeonaSherin`
+* **LinkedIn:** `https://in.linkedin.com/in/ryeona-sherin-r-62b32230a`
+* **Email:** `ryeonasherin13@gmail.com`
 
 ---
 
